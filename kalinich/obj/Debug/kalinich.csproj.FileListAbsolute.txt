@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\kalinich\kalinich\bin\Debug\kalinich.exe.config
+C:\Users\student\source\repos\kalinich\kalinich\bin\Debug\kalinich.exe
+C:\Users\student\source\repos\kalinich\kalinich\bin\Debug\kalinich.pdb
+C:\Users\student\source\repos\kalinich\kalinich\obj\Debug\kalinich.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\kalinich\kalinich\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\kalinich\kalinich\obj\Debug\App.g.cs
+C:\Users\student\source\repos\kalinich\kalinich\obj\Debug\kalinich_MarkupCompile.cache
+C:\Users\student\source\repos\kalinich\kalinich\obj\Debug\kalinich_MarkupCompile.lref
+C:\Users\student\source\repos\kalinich\kalinich\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\kalinich\kalinich\obj\Debug\kalinich.g.resources
+C:\Users\student\source\repos\kalinich\kalinich\obj\Debug\kalinich.Properties.Resources.resources
+C:\Users\student\source\repos\kalinich\kalinich\obj\Debug\kalinich.csproj.GenerateResource.cache
+C:\Users\student\source\repos\kalinich\kalinich\obj\Debug\kalinich.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\kalinich\kalinich\obj\Debug\kalinich.exe
+C:\Users\student\source\repos\kalinich\kalinich\obj\Debug\kalinich.pdb
